@@ -15,4 +15,6 @@ Endpoints to Test the implementation:
 
 ![DrawIoDiagram](./img/jwt.png)
 
-For further explanation refer to the medium article.
+For further explanation refer to the medium article:
+
+https://blog.devgenius.io/fixing-jwt-insecure-session-termination-by-blacklisting-tokens-36d783adfd67
